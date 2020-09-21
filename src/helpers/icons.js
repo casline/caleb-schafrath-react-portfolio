@@ -5,6 +5,9 @@ import {
   faTrashAlt,
   faSpinner,
   faPlusSquare,
+  faPhone,
+  faEnvelope,
+  faMapMarkedAlt,
 } from "@fortawesome/free-solid-svg-icons";
 import { library } from "@fortawesome/fontawesome-svg-core";
 
@@ -15,7 +18,10 @@ const Icons = () => {
     faEdit,
     faTrashAlt,
     faSpinner,
-    faPlusSquare
+    faPlusSquare,
+    faPhone,
+    faEnvelope,
+    faMapMarkedAlt
   );
 };
 
